@@ -1,0 +1,13 @@
+2026-03-29 17:51:08.078 +04 [7801] LOG:  starting PostgreSQL 14.18 (Homebrew) on aarch64-apple-darwin24.4.0, compiled by Apple clang version 17.0.0 (clang-1700.0.13.3), 64-bit
+2026-03-29 17:51:08.079 +04 [7801] LOG:  listening on IPv6 address "::1", port 5433
+2026-03-29 17:51:08.079 +04 [7801] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2026-03-29 17:51:08.079 +04 [7801] LOG:  Unix-domain socket path "/Users/narekmeloyan/PycharmProjects/Software Engineering/High-Throughput Inventory Tracker/pgdata/.s.PGSQL.5433" is too long (maximum 103 bytes)
+2026-03-29 17:51:08.079 +04 [7801] WARNING:  could not create Unix-domain socket in directory "/Users/narekmeloyan/PycharmProjects/Software Engineering/High-Throughput Inventory Tracker/pgdata"
+2026-03-29 17:51:08.079 +04 [7801] FATAL:  could not create any Unix-domain sockets
+2026-03-29 17:51:08.079 +04 [7801] LOG:  database system is shut down
+2026-03-29 17:51:35.240 +04 [7832] LOG:  starting PostgreSQL 14.18 (Homebrew) on aarch64-apple-darwin24.4.0, compiled by Apple clang version 17.0.0 (clang-1700.0.13.3), 64-bit
+2026-03-29 17:51:35.241 +04 [7832] LOG:  listening on IPv6 address "::1", port 5433
+2026-03-29 17:51:35.241 +04 [7832] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2026-03-29 17:51:35.241 +04 [7832] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5433"
+2026-03-29 17:51:35.242 +04 [7833] LOG:  database system was shut down at 2026-03-29 17:50:38 +04
+2026-03-29 17:51:35.245 +04 [7832] LOG:  database system is ready to accept connections
